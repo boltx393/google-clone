@@ -176,13 +176,14 @@ section .footer .row.row2 ul li a {
         width: 100%;
         padding: 0 20px;
         box-sizing: border-box;
+        margin-top: -45%;
     }
 
     section .main .languages {
         flex-wrap: wrap;
     }
     section .main img {
-        width: 75%; /* Reduce the size of the Google logo to 90% for mobile */
+        max-width: 75%; /* Reduce the size of the Google logo to 90% for mobile */
     }
 
     section .footer .row.row2 {
