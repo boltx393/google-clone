@@ -165,7 +165,7 @@ section .footer .row.row2 ul li {
 
 section .footer .row.row2 ul li a {
     text-decoration: none;
-    font-size: 14px;
+    font-size: 14px; 
     color: #5f6368;
     margin-right: 25px;
 }
@@ -176,7 +176,6 @@ section .footer .row.row2 ul li a {
         width: 100%;
         padding: 0 20px;
         box-sizing: border-box;
-        margin-top: 1%; 
     }
 
     section .main .languages {
